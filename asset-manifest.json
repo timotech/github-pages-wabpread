@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/github-pages-wabpread/static/js/main.e88c9e59.chunk.js",
+    "main.js.map": "/github-pages-wabpread/static/js/main.e88c9e59.chunk.js.map",
+    "runtime-main.js": "/github-pages-wabpread/static/js/runtime-main.281059d8.js",
+    "runtime-main.js.map": "/github-pages-wabpread/static/js/runtime-main.281059d8.js.map",
+    "static/js/2.f9cf2b41.chunk.js": "/github-pages-wabpread/static/js/2.f9cf2b41.chunk.js",
+    "static/js/2.f9cf2b41.chunk.js.map": "/github-pages-wabpread/static/js/2.f9cf2b41.chunk.js.map",
+    "index.html": "/github-pages-wabpread/index.html",
+    "precache-manifest.83a9dc81e59c8d8e3ee6bb445a99660c.js": "/github-pages-wabpread/precache-manifest.83a9dc81e59c8d8e3ee6bb445a99660c.js",
+    "service-worker.js": "/github-pages-wabpread/service-worker.js",
+    "static/js/2.f9cf2b41.chunk.js.LICENSE.txt": "/github-pages-wabpread/static/js/2.f9cf2b41.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.281059d8.js",
+    "static/js/2.f9cf2b41.chunk.js",
+    "static/js/main.e88c9e59.chunk.js"
+  ]
+}
